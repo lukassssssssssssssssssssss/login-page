@@ -1,6 +1,6 @@
 
 body{
-    background: rgba(198, 205, 255, 0.7);
+    background: rgba(255, 255, 255, 0.8);
     width: 60%;
     margin: 50px auto;
     max-width: 800px;
@@ -29,8 +29,8 @@ input{
     width: 100%;
     font-size: 20px;
     padding: 3px;
-    background-color: rgb(147, 205, 255);
-    border: solid 1px rgb(175, 182, 255);
+    background-color: rgb(216, 237, 255);
+    border: solid 1px rgb(209, 213, 255);
     resize: vertical;
     border-radius: 10px;
 }
